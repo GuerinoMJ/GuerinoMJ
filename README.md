@@ -16,7 +16,6 @@
  
 ### E-mail abaixo!
  
-<div>
- <a href="https://wa.me/551191996664676" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<div><a href="https://wa.me/5517996664676" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-Chat?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href = "mailto:guerinomaio660@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
