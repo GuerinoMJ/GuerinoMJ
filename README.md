@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do GuerinoMJ 😁
+## Bem-vindo(a) ao perfil do Guerino Maio Junior 😁
 
  <div>
    <a href="https://github.com/GuerinoMJ">
